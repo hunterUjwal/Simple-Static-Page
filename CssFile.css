@@ -1,0 +1,18 @@
+body{
+	background-color: linen;
+	text-align: center;
+}
+
+h1{
+	color: red
+	text-align: center;
+}
+
+p{
+	font-family:verdana;
+	font-size: 20px;
+}
+
+li:hover{
+	background-color: red;
+}
