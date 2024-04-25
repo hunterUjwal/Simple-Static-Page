@@ -5,6 +5,9 @@ function onClickEvent(){
  alert("You Completed " + myCount + " Exercise");
  myCount = nestedCall(myCount);
  alert("You Completed " + myCount + " Exercise");
+
+  // Open a new page
+      window.open('https://www.google.com', '_blank');
  }
  
  function nestedCall(count){
